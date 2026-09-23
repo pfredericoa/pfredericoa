@@ -3,8 +3,8 @@
 ###
 
 <p align="left">
-Meu nome é Pedro Monteiro, tenho 20 anos e sou estudante de Engenharia de Software na Universidade Católica de Salvador.
-Atualmente estou no 3º semestre.
+Meu nome é Pedro Monteiro, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Católica de Salvador.
+Atualmente estou no 4º semestre.
 </p>
 
 ###
@@ -15,8 +15,8 @@ Atualmente estou no 3º semestre.
 
 <p align="left">
 💻 Desenvolvedor em formação, focado em boas práticas e aprendizado contínuo<br>
-🎓 Tenho 20 anos e curso Engenharia de Software<br>
-🎮 Nas horas vagas gosto de jogar, ler e praticar futebol e futevôlei<br>
+🎓 Tenho 21 anos e curso Engenharia de Software<br>
+🎮 Nas horas vagas gosto de jogar, ler e praticar tênis <br>
 🎯 Objetivos: evoluir tecnicamente, ganhar experiência prática e construir projetos relevantes
 </p>
 
