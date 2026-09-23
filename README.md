@@ -1,28 +1,13 @@
 ## 👋 E aí?
 
-Me chamo Pedro Monteiro, tenho 21 anos e estou cursando Engenharia de Software na UCSAL, atualmente no 4º semestre. Seguindo em frente, aprendendo e evoluindo a cada projeto!
+Me chamo Pedro Monteiro, tenho 21 anos e estou cursando Engenharia de Software na UCSAL, atualmente no 4º semestre. Seguindo em frente, aprendendo e evoluindo a cada projeto.
 
 ### Sobre mim
 
 - 💻 Desenvolvedor em formação, focado em boas práticas de programação e código limpo
 - 🎓 21 anos, cursando Engenharia de Software na UCSAL (4º semestre)
 - 🎮 Nas horas vagas gosto de jogar videogame, ler e praticar esportes
-- 🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e também atuar na área de cyber segurança
-
-### Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](## 👋 E aí?
-
-Me chamo Pedro Monteiro, tenho 21 anos e estou cursando Engenharia de Software na UCSAL, atualmente no 4º semestre. Seguindo em frente, aprendendo e evoluindo a cada projeto!
-
-### Sobre mim
-
-- 💻 Desenvolvedor em formação, focado em boas práticas de programação e código limpo
-- 🎓 21 anos, cursando Engenharia de Software na UCSAL (4º semestre)
-- 🎮 Nas horas vagas gosto de jogar videogame, ler e praticar esportes
-- 🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e também atuar na área de cyber segurança
-
-### Conecte-se comigo
+- 🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e também atuar na área de cibersegurança
 
 ### Conecte-se comigo
 
