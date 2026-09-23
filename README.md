@@ -1,76 +1,43 @@
-<h1 align="left">👋 E aí?</h1>
+## 👋 E aí?
 
-###
+Me chamo Pedro Monteiro, tenho 21 anos e estou cursando Engenharia de Software na UCSAL, atualmente no 4º semestre. Seguindo em frente, aprendendo e evoluindo a cada projeto!
 
-<p align="left">
-Meu nome é Pedro Monteiro, tenho 21 anos e sou estudante de Engenharia de Software na Universidade Católica de Salvador.
-Atualmente estou no 4º semestre.
-</p>
+### Sobre mim
 
-###
+- 💻 Desenvolvedor em formação, focado em boas práticas de programação e código limpo
+- 🎓 21 anos, cursando Engenharia de Software na UCSAL (4º semestre)
+- 🎮 Nas horas vagas gosto de jogar videogame, ler e praticar esportes
+- 🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e também atuar na área de cyber segurança
 
-<h2 align="left">Sobre mim</h2>
+### Conecte-se comigo
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](## 👋 E aí?
 
-<p align="left">
-💻 Desenvolvedor em formação, focado em boas práticas e aprendizado contínuo<br>
-🎓 Tenho 21 anos e curso Engenharia de Software<br>
-🎮 Nas horas vagas gosto de jogar, ler e praticar tênis <br>
-🎯 Objetivos: evoluir tecnicamente, ganhar experiência prática e construir projetos relevantes
-</p>
+Me chamo Pedro Monteiro, tenho 21 anos e estou cursando Engenharia de Software na UCSAL, atualmente no 4º semestre. Seguindo em frente, aprendendo e evoluindo a cada projeto!
 
-###
+### Sobre mim
 
-<h2 align="left">Conecte-se comigo</h2>
+- 💻 Desenvolvedor em formação, focado em boas práticas de programação e código limpo
+- 🎓 21 anos, cursando Engenharia de Software na UCSAL (4º semestre)
+- 🎮 Nas horas vagas gosto de jogar videogame, ler e praticar esportes
+- 🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e também atuar na área de cyber segurança
 
-###
+### Conecte-se comigo
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedro-monteiro-4861bb388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+### Conecte-se comigo
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-monteiro-4861bb388)
 
-<h2 align="left">Linguagens e tecnologias</h2>
+### Linguagens e tecnologias
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-</div>
-
-###
-
-<h2 align="left">Badges</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pfredericoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pfredericoa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
