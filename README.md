@@ -1,19 +1,16 @@
-## 👋 E aí?
+<div align="center">
 
-Me chamo Pedro Monteiro, tenho 21 anos e estou cursando Engenharia de Software na UCSAL, atualmente no 4º semestre. Seguindo em frente, aprendendo e evoluindo a cada projeto.
+# 👋 Olá, sou o Pedro
 
-### Sobre mim
+**Estudante de Engenharia de Software (4º semestre @ UCSAL)**
+focado em desenvolvimento **Full Stack** e **Cibersegurança**.
 
-- 💻 Desenvolvedor em formação, focado em boas práticas de programação e código limpo
-- 🎓 21 anos, cursando Engenharia de Software na UCSAL (4º semestre)
-- 🎮 Nas horas vagas gosto de jogar videogame, ler e praticar esportes
-- 🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e também atuar na área de cibersegurança
+<br>
 
-### Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pfredericoa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfredericoa@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-monteiro-4861bb388)
-
-### Linguagens e tecnologias
+<br><br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,3 +20,5 @@ Me chamo Pedro Monteiro, tenho 21 anos e estou cursando Engenharia de Software n
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
